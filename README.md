@@ -6,7 +6,7 @@
 
 ## I am Ayomide
 
-Here's my devcard from daily.dev:
+Here's my devcard from [daily.dev](https://app.daily.dev/):
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AyomideA-S/AyomideA-S/blob/main/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"/></a>
 
