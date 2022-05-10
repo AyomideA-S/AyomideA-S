@@ -9,7 +9,7 @@ on:
   push: {branches: ["master", "main"]}
   
 jobs:
-  github-metrics:
+  stats:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -32,7 +32,7 @@ jobs:
           # Options
           user: AyomideA-S
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: Africa/Lagos
           
   notable:
