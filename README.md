@@ -4,6 +4,16 @@
 **AyomideA-S/AyomideA-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div align="left">
+  <a href="https://api.daily.dev/get?r=AyomideA-S" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/AyomideA-S/AyomideA-S/blob/main/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"
+    />
+  </a>
+</div>
+
 ## I am Ayomide
 
 - 🔭 I’m currently working on developing myself and most definitely getting a decent job possibly at the Silicon Valley😁.
@@ -55,16 +65,17 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 <b>My GitHub Stats</b>
 
 <div align="left">
-    <a href="http://www.github.com/AyomideA-S"><img src="https://github-readme-stats.vercel.app/api?username=AyomideA-S&show_icons=true&hide=&count_private=true&theme=vision-friendly-dark" alt="AyomideA-S's GitHub stats" /></a>
-    <a href="http://www.github.com/AyomideA-S"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyomideA-S&theme=vision-friendly-dark" /></a>
-
-  <a href="https://api.daily.dev/get?r=AyomideA-S" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/AyomideA-S/AyomideA-S/blob/main/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"
-    />
-  </a>
+    <a href="http://www.github.com/AyomideA-S">
+        <img 
+             src="https://github-readme-stats.vercel.app/api?username=AyomideA-S&show_icons=true&hide=&count_private=true&theme=vision-friendly-dark" 
+             alt="AyomideA-S's GitHub stats" 
+        />
+    </a>
+    <a href="http://www.github.com/AyomideA-S">
+        <img 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=AyomideA-S&theme=vision-friendly-dark" 
+        />
+    </a>
 </div>
 
 <a href="http://www.github.com/AyomideA-S"><img src="https://activity-graph.herokuapp.com/graph?username=AyomideA-S&&bg_color=100#eecda3,#ef629f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
