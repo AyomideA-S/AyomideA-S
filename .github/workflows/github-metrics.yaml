@@ -23,22 +23,16 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
           
           # Options
           user: AyomideA-S
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: Africa/Lagos
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           
 permissions:
   contents: write
