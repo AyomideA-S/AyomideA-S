@@ -26,9 +26,12 @@
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: I love games (especially chess and football).
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/notable.svg)
+![Coding habits](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/habits.svg)
+![Achievements](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/achievements.svg)
 
-Checkout my Metrics Insights at [AyomideA-S](https://metrics.lecoq.io/about/AyomideA-S).
+You can also check out my Metrics Insights at [AyomideA-S](https://metrics.lecoq.io/about/AyomideA-S).
 
 <a href="https://www.twitter.com/Shobzy17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Shobzy17?logo=twitter&style=plastic&color=0891b2&labelColor=1c1917"
@@ -56,6 +59,10 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/ay0mid3as" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Shobzy#2154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/CloudRaid27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AyomideA-S" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_shobzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ayomide-ayodele-soyebo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@midesuperbest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15664203/ayomide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Shobzy17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 **P.S**: If you can't see some icons or logos try switching Light/Dark modes.
 
 To do that; hit **ctrl + K** to open the GitHub Command Palette and then type
@@ -63,10 +70,6 @@ To do that; hit **ctrl + K** to open the GitHub Command Palette and then type
 >Switch theme
 ```
 You can now select any theme of your choice.😜
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/ay0mid3as" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Shobzy#2154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/CloudRaid27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AyomideA-S" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_shobzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ayomide-ayodele-soyebo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@midesuperbest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15664203/ayomide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Shobzy17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
