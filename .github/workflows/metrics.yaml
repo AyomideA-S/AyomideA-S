@@ -39,3 +39,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          
+permissions:
+  contents: write
