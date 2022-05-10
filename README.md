@@ -6,10 +6,6 @@
 
 ## I am Ayomide
 
-Here's my devcard from [daily.dev](https://app.daily.dev/):
-
-
-
 - 🔭 I’m currently working on developing myself and most definitely getting a decent job possibly at the Silicon Valley😁.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on any web projects or maybe something concerning C or Python.
@@ -20,8 +16,7 @@ Here's my devcard from [daily.dev](https://app.daily.dev/):
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: I love games (especially chess and football).
 
-![Metrics](https://metrics.lecoq.io/AyomideA-S?template=classic&achievements=1&notable=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Africa%2FLagos)
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 Checkout my Metrics Insights at [AyomideA-S](https://metrics.lecoq.io/about/AyomideA-S).
 
@@ -39,6 +34,7 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/bash/bash.png" style="padding-right:10px;" width="36px" height="36" alt="Bash" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/mysql/mysql.png" style="padding-right:10px;" width="36px" height="36" alt="MySQL" /></a>
 <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/linux/linux.png" style="padding-right:10px;" width="36px" height="36" alt="Linux" /></a>
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="/kalilinux.svg" style="padding-right:10px;" width="36px" height="36" alt="Kali Linux" /></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" style="padding-right:10px;" width="36px" height="36" alt="Assembly" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/php/php.png" style="padding-right:10px;" width="36px" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
