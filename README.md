@@ -9,7 +9,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/AyomideA-S/AyomideA-S/blob/main/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"
+      src="https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/devcard/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"
     />
   </a>
 </div>
