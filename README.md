@@ -5,7 +5,7 @@
 -->
 
 <div align="left">
-  <a href="https://api.daily.dev/get?r=AyomideA-S" target="_blank">
+  <a href="https://api.daily.dev/get?r=AyomideA_S" target="_blank">
     <img
       width="256"
       align="right"
