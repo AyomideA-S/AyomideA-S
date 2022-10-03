@@ -63,6 +63,10 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 
 <p align="left"> <a href="https://www.dev.to/ay0mid3as" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Shobzy#2154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/CloudRaid27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AyomideA-S" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_shobzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ayomide-ayodele-soyebo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@midesuperbest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15664203/ayomide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Shobzy17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badge Board
+
+[![@ayomideas's Holopin board](https://holopin.io/api/user/board?user=ayomideas)](https://holopin.io/@ayomideas)
+
 **P.S**: If you can't see some icons or logos try switching Light/Dark modes.
 
 To do that; hit **ctrl + K** to open the GitHub Command Palette and then type
@@ -95,7 +99,9 @@ You can now select any theme of your choice.😜
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AyomideA-S/restaurant-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=restaurant-website&theme=github_dark" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AyomideA-S/restaurant-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=restaurant-website&theme=github_dark" /></a></div>
+  
+<div width="100%" align="center"><a href="https://github.com/AyomideA-S/AlteMatrix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=AlteMatrix&theme=github_dark" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
