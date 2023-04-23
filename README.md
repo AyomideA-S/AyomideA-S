@@ -97,13 +97,13 @@ You can now select any theme of your choice.😜
 
 <a href="http://www.github.com/AyomideA-S"><img src="https://activity-graph.herokuapp.com/graph?username=AyomideA-S&&bg_color=100#eecda3,#ef629f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-<a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
+<a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats.ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
   
-<b>Codiga Badge</b>
+<!-- <b>Codiga Badge</b>
 
 <a href="https://app.codiga.io/hub/user/github">
   <img src="https://api.codiga.io/public/badge/user/github/ayomidea-s?style=dark" alt="codiga badge" />
-</a>
+</a> -->
 
 <b>Top Repositories</b>
 
