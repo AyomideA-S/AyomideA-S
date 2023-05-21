@@ -95,7 +95,7 @@ You can now select any theme of your choice.😜
     </a>
 </div>
 
-<a href="http://www.github.com/AyomideA-S"><img src="https://activity-graph.herokuapp.com/graph?username=AyomideA-S&&bg_color=100#eecda3,#ef629f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+[![Ayomide Ayodele-Soyebo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AyomideA-S&theme=chartreuse-dark)](https://github.com/AyomideA-S/github-readme-activity-graph)
 
 <a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats.ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
   
