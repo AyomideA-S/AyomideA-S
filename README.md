@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on developing myself and most definitely getting a decent job possibly at the Silicon Valley😁.
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on any web projects or maybe something concerning C or Python.
+- 👯 I’m looking to collaborate on any web projects or maybe something concerning C, SQL, or Python.
 - 🤔 I’m looking for help with getting started in web dev.
-- 💬 Ask me about anything about problem solving, C and Python.
+- 💬 Ask me about anything about problem solving, C, SQL, and Python.
 - 🌍  I'm based in Lagos, Nigeria.
 - 📫 How to reach me: [midesuperbest@gmail.com](mailto:midesuperbest@gmail.com)
 - 😄 Pronouns: He / His / Him
