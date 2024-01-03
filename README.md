@@ -97,7 +97,7 @@ You can now select any theme of your choice.😜
 
 [![Ayomide Ayodele-Soyebo's GitHub Activity Graph](https://github-readme-activity-graph-ayomidea-s.vercel.app/graph?username=AyomideA-S&theme=chartreuse-dark)](https://github.com/AyomideA-S/github-readme-activity-graph)
 
-<a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats.ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
+<a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats-ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
   
 <!-- <b>Codiga Badge</b>
 
