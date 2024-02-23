@@ -5,12 +5,20 @@
 -->
 
 <div align="left">
-  <a href="https://api.daily.dev/get?r=AyomideA_S" target="_blank">
+<!--   <a href="https://api.daily.dev/get?r=AyomideA_S" target="_blank">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/devcard/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"
     />
+  </a> -->
+  <a href="https://app.daily.dev/ayomidea_s" target="_blank">
+    <img
+      src="https://api.daily.dev/devcards/v2/qAR8t5uUJAISY5svw0yxI.png?type=default&r=42l"
+      width="356"
+      align="right"
+      alt="Ayomide Ayodele-Soyebo's Dev Card"
+      />
   </a>
 </div>
 
