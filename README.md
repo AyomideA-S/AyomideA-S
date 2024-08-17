@@ -46,6 +46,8 @@ src="https://img.shields.io/twitter/follow/AyomideA_S?logo=twitter&style=plastic
 /></a>
 <a href="https://www.github.com/AyomideA-S" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plastic&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S"><img
+src="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S.svg?style=plastic" alt="wakatime"></a>
 ### Skills
 
 <p align="left">
