@@ -79,6 +79,8 @@ src="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S.svg?style=plastic" 
 
 [![@ayomideas's Holopin board](https://holopin.io/api/user/board?user=ayomideas)](https://holopin.io/@ayomideas)
 
+<a href="https://www.datacamp.com/certificate/DS0023331019799" target="_blank" rel="noreferrer"><img src="https://github.com/AyomideA-S/AyomideA-S/blob/resources/DS%20-%20Badge%20with%20outline.png" style="padding-right:10px;" alt="DataCamp DS Badge" /></a>
+
 **P.S**: If you can't see some icons or logos try switching Light/Dark modes.
 
 To do that; hit **ctrl + K** to open the GitHub Command Palette and then type
