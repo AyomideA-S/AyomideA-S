@@ -80,6 +80,7 @@ src="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S.svg?style=plastic" 
 [![@ayomideas's Holopin board](https://holopin.io/api/user/board?user=ayomideas)](https://holopin.io/@ayomideas)
 
 <a href="https://www.datacamp.com/certificate/DS0023331019799" target="_blank" rel="noreferrer"><img src="https://github.com/AyomideA-S/AyomideA-S/blob/resources/DS%20-%20Badge%20with%20outline.png" style="padding-right:10px;" alt="DataCamp DS Badge" /></a>
+<a href="https://www.credly.com/badges/bac52aa5-07e3-42c5-902c-6f41107b19b5/public_url" target="_blank" rel="noreferrer"><img src="https://github.com/AyomideA-S/AyomideA-S/blob/resources/mongodb-associate-developer.8.png" width="270" height="270" style="padding-right:10px;" alt="MongoDB Associate Developer Badge" /></a>
 
 **P.S**: If you can't see some icons or logos try switching Light/Dark modes.
 
