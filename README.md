@@ -122,7 +122,11 @@ You can now select any theme of your choice.😜
 
 <div width="100%" align="center"><a href="https://github.com/AyomideA-S/restaurant-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=restaurant-website&theme=github_dark" /></a></div>
   
-<div width="100%" align="center"><a href="https://github.com/AyomideA-S/AlteMatrix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=AlteMatrix&theme=github_dark" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AyomideA-S/AlteMatrix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=AlteMatrix&theme=github_dark" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/AyomideA-S/ShopHive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=ShopHive&theme=github_dark" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
