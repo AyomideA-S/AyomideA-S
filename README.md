@@ -122,6 +122,12 @@ You can now select any theme of your choice.😜
   <img src="https://api.codiga.io/public/badge/user/github/ayomidea-s?style=dark" alt="codiga badge" />
 </a> -->
 
+<p align="center">
+  <picture>
+    <img src="profile-3d-contrib/profile-night-rainbow.svg">
+  </picture>
+</p>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/AyomideA-S/restaurant-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=restaurant-website&theme=github_dark" /></a></div>
