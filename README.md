@@ -5,13 +5,6 @@
 -->
 
 <div align="left">
-<!--   <a href="https://api.daily.dev/get?r=AyomideA_S" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/devcard/devcard.svg" width="256" alt="Ayomide Ayodele-Soyebo's Dev Card"
-    />
-  </a> -->
   <a href="https://app.daily.dev/ayomidea_s" target="_blank">
     <img
       src="https://api.daily.dev/devcards/v2/qAR8t5uUJAISY5svw0yxI.png?type=default&r=42l"
@@ -35,9 +28,6 @@
 - ⚡ Fun fact: I love games (especially chess and football).
 
 ![Metrics](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/notable.svg)
-![Coding habits](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/habits.svg)
-![Achievements](https://raw.githubusercontent.com/AyomideA-S/AyomideA-S/github-metrics/achievements.svg)
 
 You can also check out my Metrics Insights at [AyomideA-S](https://metrics.lecoq.io/about/AyomideA-S).
 
@@ -71,7 +61,7 @@ src="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S.svg?style=plastic" 
 <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ### Socials
@@ -115,12 +105,6 @@ You can now select any theme of your choice.😜
 [![Ayomide Ayodele-Soyebo's GitHub Activity Graph](https://github-readme-activity-graph-ayomidea-s.vercel.app/graph?username=AyomideA-S&theme=chartreuse-dark)](https://github.com/AyomideA-S/github-readme-activity-graph)
 
 <a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats-ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
-  
-<!-- <b>Codiga Badge</b>
-
-<a href="https://app.codiga.io/hub/user/github">
-  <img src="https://api.codiga.io/public/badge/user/github/ayomidea-s?style=dark" alt="codiga badge" />
-</a> -->
 
 <p align="center">
   <picture>
@@ -128,20 +112,6 @@ You can now select any theme of your choice.😜
   </picture>
 </p>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AyomideA-S/restaurant-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=restaurant-website&theme=github_dark" /></a></div>
-  
-<div width="100%" align="center"><a href="https://github.com/AyomideA-S/AlteMatrix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=AlteMatrix&theme=github_dark" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/AyomideA-S/ShopHive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=ShopHive&theme=github_dark" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/AyomideAS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyomideA-S&repo=AyomideA-S)](https://github.com/AyomideA-S/github-readme-stats)
- -->
