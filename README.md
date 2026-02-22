@@ -41,6 +41,8 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 <a href="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S"><img
 src="https://wakatime.com/badge/github/AyomideA-S/AyomideA-S.svg?style=plastic" alt="wakatime"></a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Amelith.png" alt="Your Image Badge" />
+
 ### Skills
 
 <p align="left">
